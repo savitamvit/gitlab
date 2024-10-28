@@ -1,2 +1,2 @@
 hi
-hello
+hello, this is a bright day
